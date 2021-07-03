@@ -1,2 +1,2 @@
 # chinese-resources
-All my spreadsheets containing Chinese vocabulary
+Some spreadsheets containing Chinese (Mandarin & Cantonese) vocabulary
