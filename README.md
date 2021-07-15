@@ -1,6 +1,9 @@
 # Chinese Vocabulary Resources
 Some spreadsheets containing Mandarin & Cantonese vocabulary.
 
+- Mandarin uses Pinyin and Simplified characters.
+- Cantonese uses Jyutping and Traditional characters.
+
 ## Credits
 Below will list the resources used to form these spreadsheets and to give credits to other authors where applicable:
 
