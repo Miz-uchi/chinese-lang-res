@@ -21,6 +21,7 @@ Boost your language-learning with these resources:
 |New HSK Vocab. List       |https://ltl-school.com/wp-content/sites/new-hsk.pdf      |
 |Other info on New HSK     |https://ltl-school.com/new-hsk/     |
 |Chinese Character Components                 |https://ninchanese.com/chinese-character-components/  |
+|Strokes, Components & Radicals | https://www.mslmaster.com/index.php/teaching-learning-resources/10-resources/60-strokes-components-and-radicals-of-chinese-characters |
 
 ## Credits
 Below will list the resources used to form these spreadsheets and to give credits to other authors:
