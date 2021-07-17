@@ -567,7 +567,7 @@ Simplified	Pinyin	Traditional	Jyutping	Definition
 班	ban1	班	baan1	work
 杯(子)	bei1zi	杯(子)	bui1 (zi2 )	glass
 小杯	xiao3bei1	小杯	siu2 bui1	small glass
-嗨	hai1	嗨	hei1	hey
+嗨	hai1	嗨	hei1	hey; high
 海皮	hai1pi2	海皮	hoi2 pei4	happy
 皮	pi2	皮	pei4	skin
 皮带	pi2dai4	皮帶	pei4 daai3	strap
@@ -802,16 +802,17 @@ Simplified	Pinyin	Traditional	Jyutping	Definition
 拉面	la1mian4	拉面	laai1 min6	ramen; pulled noodles
 啤酒	pi2jiu3	啤酒	be1 zau2	beer
 拉肚子	la1du3zi	拉肚子	laai1 tou5 zi2	diarrhea (colloquial)
+准	zhun3	準	zeon2	allow 
 不准	bu4zhun3	不准	bat1 zeon2	not allow
 准备	zhun3bei4	准備	zeon2 bei6	to prepare
 备	bei4	備	bei6	preparation
 到达	dao4da2	到達	dou3 daat6	to arrive; arrival
-达	da2	達	daat6	arrive late
+达	da2	達	daat6	arrive; reach
 达到	da2dao4	達到	daat6 dou3	to achieve
 表达	biao3da2	表達	biu2 daat6	to convey; express
 表示	biao3shi4	表示	biu2 si6	to show
 电视	dian4shi4	電視	din6 si6	TV
-礻	shi4	礻	礻 	sight (bb)
+礻	shi4	礻	-	sight (bb)
 脑	nao3	腦	nou5	brain
 电脑	dian4nao3	電腦	din6 nou5	computer
 舌(头)	she2	舌(頭)	sit6 (tau4 )	tongue
@@ -819,12 +820,13 @@ Simplified	Pinyin	Traditional	Jyutping	Definition
 话	hua4	話	waa6	dialect; language; speech
 听话	ting1hua4	聽話	ting3 waa6	obedient
 对话	dui4hua4	對話	deoi3 waa6	dialogue
-小话	xiao3hua4	小話	siu2 waa6	a joke
+笑话	xiao3hua4	小話	siu2 waa6	a joke
 如果 … 的话	ru2guo3dehua4	如果 … 的話	jyu4 gwo2 …  dik1 waa6	if…
 说话	shuo1hua4	說話	syut3 waa6	to chat
 说笑话	shuo1xiao4hua4	說笑話	syut3 siu3 waa6	to make a joke
 聊(天)	liao2(tian1)	聊(天)	liu4 (tin1 )	to chat
 过来	guo4lai2	過來	gwo3 loi4	to come over
+码	ma3	碼	maa5	number
 号码	hao4ma3	號碼	hou6 maa5	(phone) number
 密码	mi4ma3	密碼	mat6 maa5	password; secret code
 秘密	mi4mi4	秘密	bei3 mat6	secret
@@ -833,6 +835,7 @@ Simplified	Pinyin	Traditional	Jyutping	Definition
 直到	zhi2dao4	直到	zik6 dou3	until
 直立	zhi2li4	直立	zik6 lap6	vertical
 直	zhi2	直	zik6	direct
+置	zhi4	置	zi3	place; lay out; set aside
 位置	wei4zhi4	位置	wai2 zi3	position; seat
 停	ting2	停	ting4	stop
 总	zong3	總	zung2	total; general
@@ -851,17 +854,25 @@ Simplified	Pinyin	Traditional	Jyutping	Definition
 接吻	jie1wen3	接吻	zip3 man5	kiss
 豆(子)	dou4	豆(子)	dau6 (zi2 )	bean; pea
 土豆	tu3dou4	土豆	tou2 dau6	potato
+腐	fu	腐	fu6	decay; rotten
 豆腐	dou4fu	豆腐	dau6 fu6	tofu
+逗	dou4	逗	dau6	stay; stop
 逗号	dou4hao4	逗號	dau6 hou6	comma
+习	xi2	習	zaap6	practice; flapping winds
+惯	guan4	慣	gwaan3	habit; custom
 习惯	xi2guan4	習慣	zaap6 gwaan3	to be used to
 学习	xue2xi2	學習	hok6 zaap6	to study
+卬	ang2	卬	joeng5 / ngong4	lofty; high; raise
+迎	ying2	迎	jing4	receive; welcome
 欢迎	huan1ying2	歡迎	fun1 jing4	welcome
 光	guang1	光	gwong1	light
+临	lin2	臨	lam4	draw; approach; near
 光临	guang1lin2	光臨	gwong1 lam4	to honor someone's presence
 欢迎光临	huan1ying2guang1lin2	歡迎光臨	fun1 jing4 gwong1 lam4	welcome
 迎接	ying2jie1	迎接	jing4 zip3	to meet guests
 后	hou4	後	hau6	after
 后面	hou4mian4	後面	hau6 min6	back
+当	dang1	當	dong1	bear; accept
 当然	dang1ran2	當然	dong1 jin4	of course
 前	qian2	前	cin4	before
 目前	mu4qian2	目前	muk6 cin4	currently
@@ -882,7 +893,6 @@ Simplified	Pinyin	Traditional	Jyutping	Definition
 百分之	bai3fen1zhi1	百分之	baak3 fan1 zi1	percent
 余	yu2	余	jyu4	surplus
 除了	chu2le	除了	ceoi4 liu5	except
-歌	ge1	歌	go1	song
 歌手	ge1shou3	歌手	go1 sau2	singer
 唱(歌)	chang4(ge1)	唱(歌)	coeng3 (go1 )	to sing
 说唱	shuo1chang4	說唱	syut3 coeng3	rap
@@ -899,11 +909,12 @@ Simplified	Pinyin	Traditional	Jyutping	Definition
 节	jie2	節	zit3	knot; node; joint
 最	zui4	最	zeoi3	superlative marker
 醉	zui4	醉	zeoi3	drunk; intoxicated
-斤	jin1	斤	gan1	500g (bb)
 之一	zhi1yi1	之一	zi1 jat1	among; one of
+井	jing3	井	zeng2 / zing2	well; mine; shaft
 进	jin4	進	zeon3	to enter
 进来	jin4lai2	進來	zeon3 loi4	come in
 近	jin4	近	gan6	near
+远	yuan3	遠	jyun5	far
 最近	zui4jin4	最近	zeoi3 gan6	recently
 进入	jin4ru4	進入	zeon3 jap6	to enter
 进去	jin4qu4	進去	zeon3 heoi3	to go in
@@ -919,7 +930,6 @@ Simplified	Pinyin	Traditional	Jyutping	Definition
 完美	wan2mei3	完美	jyun4 mei5	perfect
 玩完	wan2wan2	玩完	waan2 jyun4	to finish playing; die
 继续	ji4xu4	繼續	gai3 zuk6	continue
-掉	diao4	掉	diu6	to drop
 吃掉	chi1diao4	吃掉	hek3 diu6	to eat up
 剪掉	jian3diao4	剪掉	zin2 diu6	to cut off
 去掉	qu4diao4	去掉	heoi3 diu6	to remove
@@ -940,7 +950,7 @@ Simplified	Pinyin	Traditional	Jyutping	Definition
 园	yuan2	園	jyun4	park
 园子	yuan2zi	園子	jyun4 zi2	garden
 果园	guo3yuan2	果園	gwo2 jyun4	orchard
-花	hua1	花	faa1	flower
+花	hua1	花	faa1	flower; to spend
 花钱	hua1qian2	花錢	faa1 cin2	spend money
 花费	hua1fei4	花費	faa1 fai3	fee; usage costs
 话费	hua4fei4	話費	waa6 fai3	phone bill
@@ -955,7 +965,7 @@ Simplified	Pinyin	Traditional	Jyutping	Definition
 出生	chu1sheng1	出生	ceot1 saang1	birth; to be born
 明星	ming2xing1	明星	ming4 sing1	celebrity
 星星	xing1xing1	星星	sing1 sing1	star
-猩猩	xing1	猩猩	sing1 sing1	orangutan
+猩猩	xing1xing1	猩猩	sing1 sing1	orangutan
 火星人	huo3xing1ren2	火星人	fo2 sing1 jan4	person out of touch; Martian
 花生	hua1sheng1	花生	faa1 saang1	peanut
 人生	ren2sheng1	人生	jan4 saang1	life
@@ -984,6 +994,7 @@ Simplified	Pinyin	Traditional	Jyutping	Definition
 大学	da4xue2	大學	daai6 hok6	university
 读书	du2shu1	讀書	duk6 syu1	to study; attend school
 读大学	du2da4xue2	讀大學	duk6 daai6 hok6	to study in university
+校	xiao4	校	haau6	school; military
 学校	xue2xiao4	學校	hok6 haau6	school
 小学	xiao3xue2	小學	siu2 hok6	primary school
 中学	zhong1xue2	中學	zung1 hok6	middle school
@@ -994,7 +1005,7 @@ Simplified	Pinyin	Traditional	Jyutping	Definition
 西医	xi1yi1	西醫	sai1 ji1	western medicine
 医院	yi1yuan4	醫院	ji1 jyun2	hospital
 学院	xue2yuan4	學院	hok6 jyun2	academy; college
-院子	yuan4zi	院子	jyun2 zi2	courtyard
+院子	yuan4zi	院子	jyun2 zi2	courtyard; yard
 后院	hou4yuan4	後院	hau6 jyun2	backyard
 住院	zhu4yuan4	住院	zyu6 jyun2	to be hospitalized
 影院	ying3yuan4	影院	jing2 jyun2	cinema
@@ -1004,7 +1015,7 @@ Simplified	Pinyin	Traditional	Jyutping	Definition
 毛病	mao2bing4	毛病	mou4 beng6	sickness
 怕痒	pa4yang3	怕癢	paa3 joeng5	not like being tickled
 痒	yang3	癢	joeng5	itchy
-瘦	hou4	瘦	sau3	thin
+瘦	shou4	瘦	sau3	thin
 厚	tong4	厚	hau5	thick
 能	neng2	能	nang4	can
 可能	ke3neng2	可能	ho2 nang4	maybe
