@@ -14,8 +14,7 @@ Below will list the resources used to form these spreadsheets and to give credit
 |dom       |https://study-v4.dominochinese.com/ | The Domino Chinese Team
 |drama-common|Chinese Dramas & Music|Phrases & words I've personally collected.|
 
-- Checkout my watchlist on MyDramaList: https://mydramalist.com/dramalist/xelan
-- Checkout my Chinese music playlist on Spotify: https://open.spotify.com/playlist/0ktT4UStSbafmN4p6M92wX?si=9507e6415af24e72
+- Checkout this Chinese music playlist on Spotify: https://open.spotify.com/playlist/0ktT4UStSbafmN4p6M92wX?si=9507e6415af24e72
 
 ## Other
 If you would like to contribute to this set, feel free to make a request!
