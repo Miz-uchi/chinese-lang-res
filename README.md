@@ -1,6 +1,12 @@
 # Chinese Vocabulary Resources
 Some spreadsheets containing Mandarin & Cantonese vocabulary.
 
+<img align="right" alt="Coding" width="100" src="https://media2.giphy.com/media/qNim5n3m3uU9QzAWO4/200w.webp?cid=ecf05e474h0w62jzz6zpt9mfdhfnzstm0bpnytmm9fpgzgf3&rid=200w.webp&ct=g">
+
+<img align="right" alt="Coding" width="100" src="https://media2.giphy.com/media/RgiBXfi2RAODKV3DKv/200.webp?cid=ecf05e476u4b82jgra5tog4914an59ibhfo6u2diswc6trvf&rid=200.webp&ct=g">
+
+<img align="right" alt="Coding" width="100" src="https://media2.giphy.com/media/Q79WIJFhfhxKyVnyTW/200w.webp?cid=ecf05e47rnw81esv2ljqprcc6k7o1505m55bkc26ds3n4q7m&rid=200w.webp&ct=g">
+
 - Mandarin uses Pinyin and Simplified characters.
 - Cantonese uses Jyutping and Traditional characters.
 
